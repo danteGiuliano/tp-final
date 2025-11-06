@@ -7,7 +7,7 @@
 - NamedQuery `Concesionaria.findByDomicilio` implementada.
 
 ## Requisitos
-- JDK 21
+- JDK 17
 - Maven 3.9+
 - MySQL en localhost (usuario root / pass Prog1234)
 
